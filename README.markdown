@@ -3,6 +3,7 @@
 This is intended for very simple use cases where Sphinx may be overkill.
 
 Usage
+
 ```ruby
     class Project < ActiveRecord::Base
       extend EOr
